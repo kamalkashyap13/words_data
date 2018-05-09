@@ -1,0 +1,732 @@
+Unit 4: Scansion
+
+Unit 4: Scansion
+
+   
+
+ACTIVITY 4.1
+
+Discuss with a partner
+or in a group some other
+examples of rhythms at
+work in our lives.
+
+Scansionlengthythinsee,   1‘
+, definitions on this page; . _  v; '3
+
+The analysis of poems into stanzas, lines and pauses is part of a process called
+scansion. This includes rhythm and rhyme and their effects. Your work here will
+help you to appreciate the way that word sounds affect meaning. This unit focuses
+on rhythm and you will look at rhyme in Unit 5.
+
+Rhythm
+
+Rhythm comes from an ancient Greek word meaning ‘ﬂow’. Nothing could be
+more familiar to us: all around us, natural and human—made rhythms — repeated
+and regular — give movement and shape to our lives. The seasons follow each other
+in a regular pattern; night and clay alternate in regular succession; inside our
+bodies, our hearts and lungs work rhythmically. Clocks strike, car engines tick over
+and music throbs, all switching between one state and another (tick—tock—tick—tock,
+
+dark-light-dark—light and so on).
+Syllables
+
+We dance and sing and make music, creating our own rhythms in an obvious
+sense, but our language too has its own rhythmical patterns, ﬂowing in an
+undulating or wave—like arrangement of stronger and weaker elements. Individual
+words have their own rhythms, depending on how many syllables they have. A
+syllable is one sound and each word we utter is made up of one or more syllables.
+
+red
+know Each has one syllable.
+ﬁnd
+
+better
+pencil Each has two syllables.
+movement
+
+poetry
+computer Each has three syllables.
+
+advising
+
+In each of these words some of the syllables are stressed, or emphasised, when you say
+them out loud and some are not stressed. It is the pattern created by the alternation
+of the stressed and unstressed syllables which creates the rhythmical effect of words,
+and, in turn, the sentences or lines of poetry that they form. (You may come across
+the words ‘strong’ or ‘weak’ used instead of ‘stressed’ or ‘unstressed’.)
+
+Marking stressed syllables
+
+If you are analysing rhythm and want to show that a syllable is emphasised or
+stressed, use the mark ' or ' on top of the syllable. If the sound is not stressed, the
+accepted notation is a v or o shape. Later, when you become more experienced, you
+won’t need to use these: you’ll be able to glance at a poem, speak it in your head and
+hear at once what the pattern of rhythm is.
+
+The rhythms of poetry are easiest to see when the lines have a regular pattern,
+and this is your next area for study. Later in this unit, you’ll analyse some less
+regular lines and what is known as syllabic verse (see page 27).
+
+21Cambridge International AS Level Literature in English
+
+ 
+
+02m
+
+Metre is the name forthe
+organisation of rhythms into
+regular and recurring patterns,
+such as you find in poetry.
+
+A foot is where two or three
+syllables recur in a pattern to
+form a metrical unit of rhythm
+(the plural is feet).
+
+A trochee is a metrical foot
+consisting of a stressed syllable
+followed by an unstressed one.
+
+Metre
+
+Metre means ‘measure’ and you already use it to measure length (centimetre)
+
+and distance (kilometre). (In the USA it is spelt meter.) In poetry, metre is the
+measurement of an arrangement of rhythms, and it has its own terminology which
+is traditional and common to many languages. When you analyse the pattern
+
+of stressed and unstressed syllables in a line of poetry, you are identifying the
+characteristic metre, especially if it’s regular. This is part of the process known as
+scansion, one aspect of which you are familiar with already — line division.
+Another aspect ofscansion to consider is the rhyme scheme, which you will study
+in Unit 5.
+
+How to scan a regular line of poetry
+
+Identify the syllables in each word and decide whether they are stressed or
+unstressed, marking them on top with a — or v as you go. Use your common sense
+about the sound of the word, then read it aloud, exaggerating the whole line slightly
+to identify the beat.
+
+Count the number of feet in the line, marking the divisions between the feet
+with a vertical line. Marking syllable divisions with a line when you start is helpful
+but this won’t be necessary when you become more experienced. Similarly, you will
+soon be able to count the number of feet without using the line divisions, or even
+marking the stresses, though this will take a little more practice.
+
+Here are some examples for you to try. I’ve done the ﬁrst line for you as a guide
+and marked the syllables (but not the feet). Copy the extract and mark the syllables
+and feet.
+
+Heard; Cardl, mou-rnful, holy:
+Chanted loudly, chanted lowly,
+Till her blood was frozen slowly,
+And her eyes were darkened Wholly 
+
+An extract from Alfred Lord Tennyson The Lady ofSha/lot (1751)
+
+In the stanza above, the recurring pattern (or foot) is — v, repeated four times in
+each line. "lhis pattern is called a trochee (the ch pronounced like a k) or you can
+call it a trochaic foot. It has a falling rhythm — try reading it out to yourself and
+listening to the regular rhythms of each line and the way it dies away.
+
+ACTIVITY 4.2
+
+Copy the following verses. Divide the lines into syllables, marking those
+which are stressed and those which are unstressed. Remember they are all
+regular patterns.COMMENT
+
+1
+
+This foot( v — ) is
+known as an iambus
+or you can call it an
+iambic foot. It has a
+rising rhythm.
+
+2
+
+This is another rising
+rhythm, but the
+pattern here of two
+unstressed syllables
+followed by a stressed
+one (v v —) is called an
+anapaest (or anapaestic
+foot).
+
+3
+
+The pattern here is
+known as a dactyl
+
+(- v v) and these
+are dactylic feet. It _
+has a falling rhythm
+which seems to suit
+very well the meaning
+of the poem’s lines
+here, reﬂecting on a
+suicide: doomed and
+melancholy.
+
+Unit 4: Scansion
+
+ 
+
+l
+The Curfew tolls the knell of parting day,
+The lowing herd Wind slowly o’er the lea,
+
+The ploughman homeward plods his weary way,
+And leaves the world to darkness and to me.
+
+An extract from Thomas Gray Elegy Written in a Country Churchyard (1751)
+
+2
+
+The Assyrian came down like the wolf on the fold,
+And his cohorts were gleaming in purple and gold;
+And the sheen of their spears was like stars on the sea,
+When the blue wave rolls nightly on deep Galilee.
+
+An extract from Lord Byron The Destruction ofSennacherib (1815)
+
+3
+Touch her not scornfully;
+Think of her mournfully,
+Gently and humanly,
+Not of the stains of her,
+All that remains of her
+Now is pure womanly.
+
+An extract from Thomas Hood The Bridge ofSighs (1844) 3
+2
+
+I A useful verse
+
+More than 200 years ago, the poet Samuel Taylor Coleridge wrote a little verse for
+
+his son to teach him the basic feet which you’ve just been working out. Here it is;
+I’ve marked the stresses for you.
+
+Tro_che\e tri_ps froh loﬁg t5 sh5rt;
+From long to short in solemn sort
+
+Slow sphndée stalks; strong fobt! yet ill able
+
+W
+
+Spondee is an occasionalfoot
+with two stressed syllables;
+obviously you c_ouldh.’t have a
+
+whole poem made up ofthem.
+(Why not?)
+
+Ever to come up With dactyl trisyllable.
+Iambics march from she—rt to lohg;
+
+With; leap arid E bo-und thgswih anapaests throng.
+
+Samuel Taylor Coleridge Metrical Feet — a lesson for a boy (1834)Cambridge International AS Level Literature in English
+
+ 
+
+If you count the number of feet in the extracts you’ve analysed, you’ll ﬁnd the
+following: in your examples there are four feet in the Tennyson and Byron, ﬁve
+feet in the Gray and two in the Hood. Here are the technical names for this
+analysis:
+
+1 foot = monometer
+2 feet = dimeter
+
+3 feet = trimeter
+
+4 feet = tetrameter
+5 feet : pentameter
+6 feet = hexameter
+
+mWWmammmm;
+
+  
+
+Longer lines of seven, eight and nine feet are sometimes, but rarely, found. Now
+you know the correct terminology to describe the metre of a particular regular line:
+dactylic tetrameter or iambic pentameter, for example.
+
+Iambic monometer is extremely rare, but an example follows:
+
+   
+
+TIP
+
+Don’t confuse blank verse
+with free verse — see later in
+
+ 
+
+the unit.
+Km mwwmmmw Thus I
+Passe by,
+And die:
+
+This is the ﬁrst stanza from Upon His Departure Hence by Robert Herrick. Most
+
+lines of poetry are longer than this, though these spare, depressive lines are very
+
+effective for the poet’s wretched mood.
+
+The most common regular metre in English poetry is iambic pentameter,
+
+n l which has been used by every great traditional poet in English. Those parts of
+
+Shakespeare’s plays that are in verse are in iambic pentameter, which is known
+
+as blank verse when it has no rhyme at the end of each line. You’ll see more
+
+examples of Shakespeare’s language in Sections 3 and 6 of this book. A line
+
+of iambics with six feet (in other words 12 syllables in all) is known as an
+W Alexandrine. The poet Alexander Pope (see page 154 for one of his poems)
+
+Alexandrine and blank verse famously characterised the Alexandrine’s potential to slow or speed the ﬂow of
+see definition on this page. a poem in a rhyming couplet consisting of an iambic pentameter followed by an
+' V ‘ Alexandrine:
+
+A needless Alexandrine ends the song
+That like a wounded snake, drags its slow length along.
+
+‘Wmmem‘ﬁrﬁwWAumumawmnwwmaﬁ
+
+TIP
+
+Knowing the technical
+vocabulary is helpful
+
+and interesting, but your
+knowledge must always
+
+be directed towards
+appreciation of the effects of
+what you have observed. It is
+the means to an end, not an
+end in itself.
+
+Alexander Pope An Essay on Criticism (1711)
+
+In this unit, you’ve moved quickly from the rhythms of individual words to their
+measurable ﬂow in regular lines of poetry. The terminology you’ve learned applies
+usefully to many older poems, though you will ﬁnd little irregularities within
+basically regular pieces.
+
+Variations in the pattern
+
+If you speak lines of poetry out loud and listen to their sound, the natural,
+conversational rhythms of the words being used to express particular thoughts
+are obvious. These may not ﬁt a perfectly regular pattern and you’d have to distort
+the natural pronunciation and stress of the words to force them into one. If every
+foot and every line in poetry were perfectly regular, or exactly like all the others, it
+would be precise in a mathematical sort of way, but it would be monotonous and
+inﬂexible.
+
+WWW Wlmlmmmmamwwﬂ
+
+ﬁlm...mmwmm
+is...
+
+mmmmuwmmmwamrmmmamnemmmmsmaUnit 4: Scansion
+
+ 
+
+Now that you know the basic metres, you will be in a position to appreciate
+variations and feel their effects. Even in lines you consider to be basically regular,
+there are some small deviations from the basic pattern where the meaning or
+natural pronunciation demands it.
+
+ACTIVITY 4.3
+
+In Unit 3, you looked at a poem by Siegfried Sassoon from the point of View
+of its layout in lines and stanzas. Now look again at the ﬁrst stanza of the
+poem and try scanning it. You should always consider the eifects as you work
+through it.
+
+ 
+  
+ 
+ 
+ 
+ 
+  
+
+TIP .
+Some of the most effective
+
+lines of poetry contain skilful
+Variations which emphasise
+important words. The
+reader’s attention is caught
+because a potentially smooth
+rhythm has been disrupted.
+
+ 
+
+Everyone suddenly burst out singing;
+
+And I was ﬁlled with such delight
+
+As prisoned birds must ﬁnd in freedom,
+
+Winging Wildly across the White
+
+Orchards and dark-green ﬁelds; on—on—and out of sight.
+
+Siegfried Sassoon Everyone Sang (1918)
+
+25
+Line 1: The ﬁrst two feet are dactyls, followed by two trochees (four feet,
+
+so it is a tetrameter).
+
+COMMENT
+
+Line 2: This is a regular iambic tetrameter.
+
+Line 3: This is iambic, but the last foot has an extra unstressed syllable —
+the ‘dom’ of ‘freedom’. (This pattern is known technically as an
+
+amphibrach and may occur in this way at the end of a line.)
+
+Line 4: This has two trochaic feet followed by two iambic ones.
+
+Analyse the second stanza
+
+of the poem by Sassoon.
+You will ﬁnd it printed in
+full in Unit 3. Discuss your
+
+analYSiS With a Classmate 0r Orchards and dark green ﬁelds; arr—0n and out of sight
+your teacher. trochee Lambus spondee spondee mmbus Lambus
+
+Line 5: This is an unusually long line, with siX feet instead of four.
+It also has an unusual pattern of stresses too, which throws
+particular emphasis on certain words:
+
+ 
+
+TIP
+
+It’s important to realise that where the stresses come may be a matter of opinion,
+not scientific fact; you might have disagreed with this analysis of line 5 of the
+Sassoon poem. The word green could be unstressed or stressed, for example: if
+unstressed, that would have been another iambic foot. If both green and fields are
+emphasised, it draws attention to their similar sound and lengthens the phrase
+effectively. Look at the way in which the meaning of the final line is also enhanced
+by its length: on—on—and out of sight.Cambridge International AS Level Literature in English
+
+ 
+
+The next example is a poem written in basically iambic pentameter with many
+skilful and effective irregularities. These enhance the poet’s emotional state as well
+as emphasising particularly important words. The poet is Sir Thomas Wyatt, who
+was writing in the 15305 and 15405, and the subject is his rejection by women, one
+in particular, who used to love him. You will note that the passage of centuries has
+not affected certain basic human themes, though more recent feminist critics might
+have something to say about his attitudes. The spelling has been modernised and
+you are given the meaning of words now out of date.
+
+ACTIVITY 4.5
+
+Scan the following poem and see where the stressed syllables are.
+
+They ﬂee from me, that sometime did me seek sometime 2 once
+With naked foot, stalking in my chamber.
+1 have seen them gentle, tame, and meek,
+That now are wild, and do not remember
+That sometime they put themselves in danger
+To take bread at my hand; and now they range
+Busin seeking with a continual change.
+
+Thanked be fortune it hath been otherwise
+Twenty times better; but once, in special,
+
+In thin array, after a pleasant guise, array = clothing
+When her loose gown from her shoulders did fall, guise = masked ball
+And she me caught in her armes long and small, small = slender
+
+Therewith all sweetly did me kiss
+And softly said, ‘Dear heart, how like you this?’
+
+m»;me
+
+It was no dream; I lay broad waking:
+But all is turned, through my gentleness,
+Into a strange fashion of forsaking;
+And I have leave to go of her goodness,
+And she also to use newfangledness. newfangledness 2
+But since that I so kindly am served, liking new things
+I would fain know what she hath deserved.
+
+Sir Thomas Wyatt (1503—1542) They Flee from Me
+
+The rhythms of this are complex and subtle. Your scansion will show some regular
+lines and others where variations occur. Here are three examples, though you
+probably found more than this.Unit 4: Scansion
+
+ 
+
+1 Theyﬂeefrom me, that sometime did me seek
+With nakedfoot, stalking in my chamber.
+
+COMMENT
+
+Line 1 is regular iambic pentameter, establishing an overall pattern
+at the beginning. Line 2 begins within the pattern, with the ﬁrst two
+feet iambic. But the word stalking upsets this pattern, emphasising
+the strong determined movement referred to (and emphasising the
+wild animal images used).
+
+2 And she me caught in her armes long and small
+
+At the time of writing the word armes would have two syllables, not
+one as arms does today. Imagine this line made regular:
+
+She caught me in her armes long and small.
+
+The line as written by Wyatt has a completely different emphasis:
+the phrase she me caught with its three stresses focuses powerfully
+on the action and creates a pause after the word caught (the caesura)
+before the delicate description of her long slender arms.
+
+3 It was no dream; I lay broad waking:
+27
+The line begins regularly enough, but after the caesura pause
+(dream) there are four stressed syllables: I, lay, broad, wak—(ing).
+(Even if you decide that ‘I’ should be unstressed, there are still three
+together.) 'lhe poet is reminding himself that he is wide awake,
+not daydreaming or asleep; these experiences were real and in
+sharp contrast to his present state of dejection because he has been
+forsaken. The stressed syllables draw attention to this.
+
+M Syllabic verse
+
+You may have noticed that all the examples of basically regular poetry here were
+written centuries ago. Of course there are more recent examples, but it’s certainly
+true that modern and contemporary poets don’t use those traditional forms as
+consistently as their predecessors. More modern poets may have written regular
+poems in which the regularity is achieved only in the number of syllables per
+
+line: this is known as syllabic verse. You might well ﬁnd it easier to scan this more
+recent verse that doesn’t ﬁt the traditional metrical patterns. You count the syllables
+whether they are stressed or not and see whether each line has the same number.
+
+Look in an anthology and
+see if you can ﬁnd any
+poems that don’t seem to ﬁt
+a traditional metrical form.
+If it’s obviously a more
+modern piece, try counting
+the syllables. If it appears to
+have no regular structure at
+all, is not syllabic and has no
+rhyme, then it is probably
+free verse (see below).Cambridge International AS Level Literature in English
+
+ 
+
+ACTIVITY 4.?
+
+Try counting the syllables in the following lines by Derek Walcott and you
+will see how easy it is to scan this kind of poetry.
+
+-mmww Days thick as leaves then, close to each other as hours
+
+and a sunburnt smell rose up from the drizzled road i 3
+
+The cloud passes high like a god staying his powers —
+the pocked sand dries, umbrellas re—open like ﬂowers
+
+Derek Walcott from Midsummer (XVII andXXVl) (1984)
+
+ACTIVITY 4.8
+
+The following poem is complete. Its title, Metaphors, is a reference to a ﬁgure
+of speech with which you are familiar, and the poem is a kind of riddle. If you
+count the syllables here, as well as the number of lines used, you will perhaps
+be able to guess what the answer to this riddle is.
+
+I’m a riddle in nine syllables,
+
+An elephant, a ponderous house,
+
+A melon strolling on two tendrils.
+a 0 red fruit, ivory, ﬁne timbers!
+
+This loaf ’s big with its yeasty rising.
+
+Money’s new minted in this fat purse.
+
+I’m a means, a stage, a cow in calf.
+
+I’ve eaten a bag of green apples,
+Boarded the train there’s no getting off.
+
+Sylvia Plath Metaphors (1966)
+
+l...
+E The poet, Sylvia Plath, is writing a poem about pregnancy. The nine
+g syllables and nine lines are particularly appropriate in this case,
+8 suggesting in their form the length of time her physical being is affected
+and combining well with some very descriptive metaphors.
+Haiku
+
+Haiku is a kind of syllabic verse that is great fun to write yourself. It was originally
+a Japanese verse form consisting of 17 syllables altogether in three lines of ﬁve,
+seven and ﬁve syllables. Because it’s so short it can only express one idea, feeling or
+image, but this can be very effective: it is like a snapshot in words.
+
+Provided that you can count syllables, it isn’t difﬁcult to write a haiku of your
+own. A class were given a list of subjects and here are three of the results, for the
+titles Memory, Food and Summer.Unit 4: Scansion
+
+ 
+
+ 
+
+ 
+
+ 
+
+The smell of roses 5 sy ab es
+Reminds me of my mother 7 sy ab es
+Filled the house with love ’5 sy lab es
+Bring me a coffee, 5 sy ab es
+Chocolate fudge cake with cream! 7 sy ab es
+(Diet starts Monday) 5 sy ab es
+ Dust swirls on the road. 5 sy ables
+I The sun has yellowed the ﬁelds. 7 5y ab es
+Summer haze ﬂoats down. 5 sy ab es
+Free verse
+
+At ﬁrst sight, free verse has no apparent regularity in its form, but it is in fact designed
+cunningly in the cadences and breath groups of the speaking voice. It is given shape
+by the use of repetition, parallelism,enjambment (run-on lines) and pauses, and is as
+carefully designed as regular iambic pentameters.
+
+ACTIVITY 4.9
+
+Identify examples of repetition, parallelism, enjambment and pauses in the 29
+following poems and discuss their effect. The ﬁrst is an example from D. H.
+Lawrence, who wrote many free verse poems in contemplation of animals.
+
+Climbing through the January snow, into the Lobo canyon .
+Dark grow the spruce—trees, blue is the balsam, water sounds
+still unfrozen, and the trail is still evident.
+
+Men!
+Two men!
+Men! The only animal in the world to fear!
+
+They hesitate.
+We hesitate.
+They have a gun.
+We have no gun.
+
+Then we all advance, to meet.
+
+Two Mexicans, strangers, emerging out of the dark and snow
+and inwardness of the Lobo valley.
+What are you doing here on this vanishing trail?
+
+D. H. Lawrence Mountain Lion (1923)Cambridge International AS Level Literature in English
+
+ 
+
+The second example of free verse is from The First Breakfast: Objects, by Dilip
+Chitre (born 1938).
+
+'Ihis morning is tasteless, colourless, odourless:
+I sit alone at the big table. 1
+The waiter is watching me. 
+In the deadly white dish ‘
+lie two fried eggs.
+
+Two containers of salt and pepper.
+
+A bowl of butter. A bowl of jam.
+
+TWO oranges. A heap of toast.
+
+Dilip Chitre The First Breakfast: Objects
+
+ 
+
+In Mountain Lion the word men is repeated three times in one- and two—word
+sentences with exclamation marks to emphasise their destructiveness. The
+third stanza uses parallelism in They hesitate. / We hesitate. and They have a
+gun. / We have no gun. Both parties are uncertain, but only one group has a
+weapon.
+
+Enjambments are used as part ofthe natural description at the beginning
+and end of the extract. lending an emphatic quality to the words sounds and
+still in the first section and snow andinwardness in the last. Additionally, the
+first lines of the first and fifth stanzas do not contain a finite verb, giving a
+sense that the actions of ‘climbing’ and ‘emerging’ are still continuing, also
+
+SAMPLE RESPONSE,3
+mm»
+
+WRITING TIP
+
+Always try to identify the
+effects of layout, rhythm
+and pace in the poems you
+are analysing, relating them
+as closely as possible to the
+development of the poet’s
+thoughts and observations.
+
+l in “wruuntﬁnfwulwwmmmmw‘j
+
+ 
+
+ii
+a
+g
+
+  
+
+Face is a word used to denote ,
+he speed at which a verse
+
+moves.
+
+ 
+ 
+
+Unit 4: Scansion
+
+helped by the enjambment. lf read aloud, the pauses between lines give a
+dramatic significance to the encounter being described, and the final line of
+the extract is a direct question, which also lends dramatic emphasis.
+
+The First Breakfast: Objects has an apparently simple construction, but
+there are a number of repetitions and parallel phrases. Here most of the lines
+are end—stopped apart from the run-on line about the eggs. Objects are listed
+without verbs — theyjust sit there on the table. The verse form makes the
+simple matter of eating breakfast into something strange and menacing.
+
+ 
+
+Pace
+
+In some poems, the pace is regular and steady and in others there is a perceptible
+speeding up or slowing down. This affects the meaning of the poem, and its
+atmosphere. In the Lawrence poem above, for example, the section where the
+poet and his companions meet the strangers is slowed by the short lines and brief
+repetitive sentences. The Byron poem 7716 Destruction of Sennacherib (see page
+23) has a swift ﬂowing pace,which drives through the poem, aptly mirroring the
+movement of advancing troops.
+
+31
